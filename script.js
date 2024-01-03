@@ -1,4 +1,4 @@
-const accessKey = "Cv55F-ndeM25cxHjPWzkcLw-i8gd5fmdwUf6ASHQJRs"
+const accessKey = "****"
 
 
 const form = document.querySelector("form")
