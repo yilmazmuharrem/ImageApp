@@ -43,7 +43,7 @@ let page=1;
         imageWrapper.appendChild(image);
         imageWrapper.appendChild(imageLink);
     
-        searchResults.appendChild(imageWrapper); // Hatanın düzeltildiği yer
+        searchResults.appendChild(imageWrapper); 
     });
     
     page++
